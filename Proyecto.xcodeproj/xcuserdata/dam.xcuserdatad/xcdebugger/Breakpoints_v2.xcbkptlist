@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Proyecto/ActividadesTableViewController.swift"
+            timestampString = "508682109.877625"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ActividadesTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proyecto.ActividadesTableViewController.__deallocating_deinit"
+                  moduleName = "Proyecto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Desktop/Proyecto/Proyecto/Proyecto/ActividadesTableViewController.swift"
+                  timestampString = "508682111.757412"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proyecto.ActividadesTableViewController.init (style : __C.UITableViewStyle) -&gt; Proyecto.ActividadesTableViewController"
+                  moduleName = "Proyecto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Desktop/Proyecto/Proyecto/Proyecto/ActividadesTableViewController.swift"
+                  timestampString = "508682111.777784"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proyecto.ActividadesTableViewController.__allocating_init (style : __C.UITableViewStyle) -&gt; Proyecto.ActividadesTableViewController"
+                  moduleName = "Proyecto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Desktop/Proyecto/Proyecto/Proyecto/ActividadesTableViewController.swift"
+                  timestampString = "508682111.780032"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proyecto.ActividadesTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Proyecto.ActividadesTableViewController"
+                  moduleName = "Proyecto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Desktop/Proyecto/Proyecto/Proyecto/ActividadesTableViewController.swift"
+                  timestampString = "508682111.782215"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proyecto.ActividadesTableViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Proyecto.ActividadesTableViewController"
+                  moduleName = "Proyecto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Desktop/Proyecto/Proyecto/Proyecto/ActividadesTableViewController.swift"
+                  timestampString = "508682111.784415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proyecto.ActividadesTableViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Proyecto.ActividadesTableViewController&gt;"
+                  moduleName = "Proyecto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Desktop/Proyecto/Proyecto/Proyecto/ActividadesTableViewController.swift"
+                  timestampString = "508682111.786427"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proyecto.ActividadesTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Proyecto.ActividadesTableViewController&gt;"
+                  moduleName = "Proyecto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Desktop/Proyecto/Proyecto/Proyecto/ActividadesTableViewController.swift"
+                  timestampString = "508682111.788536"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
